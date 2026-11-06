@@ -28,7 +28,7 @@
 
 ## 📌 Sobre mí
 
-> *"Lo que no se mide, no se controla, y lo que no se controla, no se puede mejorar."*
+> *"Transforme sus procesos en activos, sus auditorías en oportunidades y sus datos en inteligencia de negocio.."*
 
 Soy **Tecnólogo en Producción Industrial** y **Tecnólogo en Gestión Administrativa (ITM)**, con más de 9 años de experiencia como Coordinador de Estadísticas (Descriptivas), Auditor Interno de Calidad y Líder de Procesos.
 Mi enfoque profesional une la estrategia, el cumplimiento de estándares y la optimización de recursos económicos de las organizaciones.
@@ -64,5 +64,5 @@ Mi enfoque profesional une la estrategia, el cumplimiento de estándares y la op
 <br>
 
 <div align="center">
-  <sub><i>"Transforme sus procesos en activos, sus auditorías en oportunidades y sus datos en inteligencia de negocio."</i></sub>
+  <sub><i>""</i></sub>
 </div>
