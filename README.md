@@ -3,9 +3,9 @@
   <p align="center"><b>Analista de Datos | Auditor Interno SGI (HSEQ) | Documentador de Procesos</b></p>
 </div>
 
-<!-- Banner Principal en Base64 -->
+<!-- Banner Principal -->
 <p align="center">
-  <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABQAAAAH4CAYAAAD... (imagen incrustada optimizada)" alt="Marlon Morales Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/MarlonMoralesA/MarlonMoralesA/main/Baner_2.png" alt="Marlon Morales Banner" width="100%">
 </p>
 
 <!-- Badges de Contacto y Redes -->
